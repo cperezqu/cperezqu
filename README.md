@@ -1,9 +1,6 @@
 # Hello 👋🏾 👩🏾‍💻
 
-![Banner](https://user-images.githubusercontent.com/34881706/130360350-7d33db63-d3ca-457b-881a-ec5517e3054d.jpg)
-
-Hi, I'm Carlos! I'm a consultant engineer who is passionate about making open-source more accessible, 
-creating technology to elevate people, and building community. 
+Hi, I'm Carlos! I am Computer professional with commitment, responsibility and dedication, ability to adapt to changing conditions, as a result of having worked the last two years and half on diferent projects
 
 Find me around the web 🌎:
 - Sharing updates on <a href="https://www.linkedin.com/in/carlos-perez-21978299/">LinkedIn</a> 💼
